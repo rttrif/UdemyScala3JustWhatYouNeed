@@ -2,4 +2,3 @@
 
 - SBT - build tool for Scala 
 - REPL - Read, Evaluate, Print, Loop
-- 
